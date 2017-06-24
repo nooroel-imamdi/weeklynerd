@@ -3,10 +3,10 @@ Deze repository bevat een verzameling aan sketchnotes die zijn gemaakt gedurende
 
 # Inhoud
 1. [Artikelen](https://github.com/nooroel-imamdi/weeklynerd#artikelen)
-  * [Een eigen bedrijf ná het CMD](https://github.com/nooroel-imamdi/weeklynerd#een-eigen-bedrijf-ná-het-cmd)
-  * [Theme Parks for the Web](https://github.com/nooroel-imamdi/weeklynerd#theme-parks-for-the-web)
-  * [Sketchnotes](https://github.com/nooroel-imamdi/weeklynerd#sketchnotes)
-  * [Accessibility](https://github.com/nooroel-imamdi/weeklynerd#wat-is-er-mis-met-webdevelopment)
+  1. [Een eigen bedrijf ná het CMD](https://github.com/nooroel-imamdi/weeklynerd#een-eigen-bedrijf-ná-het-cmd)
+  2. [Theme Parks for the Web](https://github.com/nooroel-imamdi/weeklynerd#theme-parks-for-the-web)
+  3. [Sketchnotes](https://github.com/nooroel-imamdi/weeklynerd#sketchnotes)
+  4. [Accessibility](https://github.com/nooroel-imamdi/weeklynerd#wat-is-er-mis-met-webdevelopment)
 2. [Sketchnotes Weekly Nerds](https://github.com/nooroel-imamdi/weeklynerd#sketchnotes-weekly-nerds)
 
 # Artikelen
