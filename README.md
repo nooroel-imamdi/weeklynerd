@@ -6,7 +6,8 @@ Deze repository bevat een verzameling aan sketchnotes die zijn gemaakt gedurende
   - [Een eigen bedrijf ná het CMD](https://github.com/nooroel-imamdi/weeklynerd#een-eigen-bedrijf-ná-het-cmd)
   - [Theme Parks for the Web](https://github.com/nooroel-imamdi/weeklynerd#theme-parks-for-the-web)
   - [Sketchnotes](https://github.com/nooroel-imamdi/weeklynerd#sketchnotes)
-  - [Accessibility](https://github.com/nooroel-imamdi/weeklynerd#wat-is-er-mis-met-webdevelopment)
+  - [Wat is er mis met webdevelopment](https://github.com/nooroel-imamdi/weeklynerd#wat-is-er-mis-met-webdevelopment)
+  - [Accessibility](https://github.com/nooroel-imamdi/weeklynerd#accessibility)
 - [Sketchnotes Weekly Nerds](https://github.com/nooroel-imamdi/weeklynerd#sketchnotes-weekly-nerds)
 
 
